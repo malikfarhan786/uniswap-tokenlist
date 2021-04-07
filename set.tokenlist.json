@@ -17,22 +17,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png"
     },
-    {
-      "chainId": 1,
-      "address": "0xD83dfE003E7c42077186D690DD3D24a0c965ca4e",
-      "name": "Yam DAO House",
-      "symbol": "yamHOUSE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/yam_house.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-      "name": "Index",
-      "symbol": "INDEX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/index.png"
-    },
     
     {
       "chainId": 1,
