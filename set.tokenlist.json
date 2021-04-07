@@ -8,14 +8,7 @@
   ],
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-      "name": "DeFi Pulse Index",
-      "symbol": "DPI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
-    },
+    
     {
       "chainId": 1,
       "address": "0xAdA0A1202462085999652Dc5310a7A9e2BF3eD42",
